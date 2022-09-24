@@ -163,10 +163,7 @@ export const Games = styled.div`
             color: white;
             margin: 10px;
         }
-        &:hover {
-            margin-top: -10px;
-            box-shadow: 0 5px 15px black;
-        }
+    
     }
  
 `
